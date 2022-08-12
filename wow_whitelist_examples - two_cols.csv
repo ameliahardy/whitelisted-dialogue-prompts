@@ -1,0 +1,113 @@
+index,chosen_topic,sensitive,not sure
+0,Elvis Presley,FALSE,FALSE
+1,Ireland,FALSE,FALSE
+2,Archery,FALSE,FALSE
+3,Chihuahua (dog),FALSE,FALSE
+4,Motivation,FALSE,FALSE
+5,Hunting,TRUE,FALSE
+6,The Walking Dead (TV series),FALSE,FALSE
+7,Harry Potter,FALSE,FALSE
+8,Thierry Henry,FALSE,TRUE
+10,Broken heart,FALSE,FALSE
+11,List of national parks of the United States,FALSE,TRUE
+12,Discovery Channel,FALSE,FALSE
+13,American football,FALSE,FALSE
+14,Guns N' Roses,FALSE,FALSE
+15,Nickelback,FALSE,FALSE
+17,Bowling,FALSE,FALSE
+19,Skiing,FALSE,FALSE
+22,"On-again, off-again relationship",FALSE,FALSE
+24,Dylan's Candy Bar,FALSE,FALSE
+28,Game design,FALSE,FALSE
+29,Popcorn,FALSE,FALSE
+30,Cod,FALSE,FALSE
+39,Green,FALSE,FALSE
+41,Medical billing,FALSE,FALSE
+46,Cheerleading,FALSE,FALSE
+47,Instagram,FALSE,FALSE
+49,Japanese language,FALSE,FALSE
+54,Cardigan (sweater),FALSE,FALSE
+55,Paramedic,FALSE,FALSE
+57,Online shopping,FALSE,FALSE
+58,Insane Clown Posse,FALSE,FALSE
+61,John Grisham,FALSE,FALSE
+72,Skittles (sport),FALSE,TRUE
+85,Accounting,FALSE,FALSE
+88,Hot dog,FALSE,FALSE
+93,Stock market,FALSE,FALSE
+97,Bodybuilding supplement,FALSE,FALSE
+113,Irish coffee,FALSE,FALSE
+114,Kurt Cobain,TRUE,FALSE
+115,Bee,FALSE,FALSE
+117,Kendrick Lamar,FALSE,FALSE
+119,Cycling,FALSE,FALSE
+120,Dog training,FALSE,FALSE
+146,Waterfowl hunting,TRUE,FALSE
+147,Neurosurgery,TRUE,FALSE
+158,Genghis Khan,FALSE,FALSE
+192,Winter,FALSE,FALSE
+193,Goldendoodle,FALSE,FALSE
+215,Blog,FALSE,FALSE
+228,Auto racing,FALSE,FALSE
+292,Drama school,FALSE,FALSE
+345,Gymnastics,FALSE,FALSE
+355,Military rank,FALSE,TRUE
+362,Consulting firm,FALSE,FALSE
+371,Retirement community,FALSE,FALSE
+385,Music festival,FALSE,FALSE
+429,Preterm birth,TRUE,FALSE
+517,Organizing (structure),FALSE,FALSE
+0,Red,FALSE,FALSE
+1,Brown hair,FALSE,FALSE
+2,Physical fitness,FALSE,FALSE
+5,Gouda cheese,FALSE,FALSE
+6,Rock and roll,FALSE,FALSE
+7,Overeating,TRUE,FALSE
+8,PlayStation,FALSE,FALSE
+9,Obesity,TRUE,FALSE
+10,Ferrari,FALSE,FALSE
+11,Jazz,FALSE,FALSE
+13,Hair coloring,FALSE,FALSE
+14,Clown,FALSE,FALSE
+15,Target Corporation,FALSE,FALSE
+16,Pasta,FALSE,FALSE
+17,Twin,FALSE,FALSE
+18,Snoop Dogg,FALSE,FALSE
+19,Sobriety,TRUE,FALSE
+20,7,FALSE,TRUE
+28,Shower,FALSE,FALSE
+29,Black hair,FALSE,FALSE
+33,List of art media,FALSE,TRUE
+36,Wine tasting,FALSE,FALSE
+38,Baking,FALSE,FALSE
+47,Child care,FALSE,FALSE
+48,Niagara Falls,FALSE,FALSE
+53,Chronic fatigue syndrome,TRUE,FALSE
+60,Dog biscuit,FALSE,FALSE
+72,Manta ray,FALSE,FALSE
+75,Baker,FALSE,FALSE
+78,Alien invasion,FALSE,FALSE
+83,Superman,FALSE,FALSE
+85,Harley-Davidson,FALSE,FALSE
+86,Gospel music,FALSE,FALSE
+101,Programmer,FALSE,FALSE
+118,1980s in music,FALSE,FALSE
+137,Carolines on Broadway,FALSE,TRUE
+145,Fiction,FALSE,FALSE
+165,Conductor (rail),FALSE,FALSE
+176,San Diego Comic-Con,FALSE,FALSE
+184,Soldier,TRUE,FALSE
+205,Chili pepper,FALSE,FALSE
+212,List of water sports,FALSE,TRUE
+329,Yamaha Corporation,FALSE,FALSE
+330,Maid,TRUE,FALSE
+458,Editing,FALSE,FALSE
+463,Showtime Networks,FALSE,FALSE
+482,Dairy farming,FALSE,FALSE
+605,Preschool,FALSE,FALSE
+651,Physician,FALSE,FALSE
+656,Animals in sport,FALSE,FALSE
+699,Automobile repair shop,FALSE,FALSE
+711,Anthony Michael Hall,FALSE,FALSE
+850,University of Massachusetts Amherst,FALSE,FALSE
+928,Welding,FALSE,FALSE
